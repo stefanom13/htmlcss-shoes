@@ -67,10 +67,20 @@ li {
   background-color: red;
 }
 
+#shoes1:hover {
+  background-color: violet;
+}
+
 #shoes2 {
   background-color: green;
+}
+#shoes2:hover {
+  background-color: rgb(104, 57, 4);
 }
 
 #shoes3 {
   background-color: yellow;
+}
+#shoes3:hover {
+  background-color: rgb(71, 61, 100);
 }
